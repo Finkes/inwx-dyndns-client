@@ -1,5 +1,10 @@
+#INWX DYNDNS Client
+
+small go app to update the ip address of your dyndns at inwx.com
+
 ## build
 
-build the binary
-env CGO_ENABLED=0 go build
+```
+./build.sh
+```
 
